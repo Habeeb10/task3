@@ -1,0 +1,32 @@
+.container {
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+}
+.first {
+  width: 55rem;
+  height: 30rem;
+  background-color: #dbe9f3;
+  margin-left: 400px;
+  margin-top: 100px;
+}
+.img {
+  width: 25rem;
+  height: 10rem;
+  flex-direction: row;
+  display: flex;
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.img2 {
+  /* width: 100rem; */
+  height: 25rem;
+}
+.hero {
+  font-size: 40px;
+  margin-left: 30px;
+}
+.heal {
+  font-size: 5px;
+  margin-left: 30px;
+}
