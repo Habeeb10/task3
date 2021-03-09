@@ -4,23 +4,25 @@
   justify-content: space-between;
 }
 .first {
-  width: 55rem;
+  width: 50rem;
   height: 30rem;
   background-color: #dbe9f3;
   margin-left: 400px;
   margin-top: 100px;
 }
 .img {
-  width: 25rem;
-  height: 10rem;
+  width: 20rem;
+  height: 3rem;
   flex-direction: row;
   display: flex;
   margin-left: 30px;
-  margin-top: 20px;
+  margin-top: 15px;
 }
 .img2 {
-  /* width: 100rem; */
-  height: 25rem;
+  height: 26.5rem;
+  width: 24rem;
+  /* margin-top: 30px; */
+  margin-left: 130px;
 }
 .hero {
   font-size: 40px;
